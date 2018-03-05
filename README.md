@@ -1,0 +1,2 @@
+# Nami
+Lekce 1
