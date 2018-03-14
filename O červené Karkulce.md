@@ -1,5 +1,5 @@
-# O červené karkulce
-! [Image of Red] (http://www.guraso.eus/wp-content/uploads/sites/116/2016/03/cappuccetto-rosso.jpg)
+﻿# O červené karkulce
+! [Image of Red] (cappuccetto-rosso.png)
 
 Za devatero řekami, přes tři potoky, v *městečku* menším než louže po dešti, bydlela **malá holčička**, které nikdo neřekl jinak, než *Karkulka*.
 Když byla holčička ještě malé semínko, upletla jí babička *karkulku* z červené příze a holčička ji už nikdy nesundala. Holčička měla babičku velmi ráda. 
